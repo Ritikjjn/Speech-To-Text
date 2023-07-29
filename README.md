@@ -16,4 +16,4 @@ It will require microphone access after you click on start button.
 Chrome, Edge
 
 ## Live Demo
-https://tibra27.github.io/SpeechRecognition/
+https://ritikjjn.github.io/Speech-To-Text/
