@@ -6,7 +6,7 @@ A server-based recognition engine. Your audio is sent to a web service for recog
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 
 ## How to Run
-Clone the repo: https://github.com/tibra27/SpeechRecognition.git
+Clone the repo: https://github.com/Ritikjjn/Speech-To-Text.git
 
 Open voice.html in Chrome/chrome-like browser(Not support Firefox as of now).
 
